@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "cityName": "Malagon",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-10-20T08:54:40.381Z",
+      "notes": "efefewf",
+      "position": {
+        "lat": "39.229735902000904",
+        "lng": "-4.130859375000001"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Aguasal",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-10-20T12:27:59.433Z",
+      "notes": "zx",
+      "position": {
+        "lat": "41.291320238456905",
+        "lng": "-4.636230468750001"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "El Provencio",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-10-20T12:29:05.117Z",
+      "notes": "dcdsc",
+      "position": {
+        "lat": "39.381510939672346",
+        "lng": "-2.5252825062015276"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Satao",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2023-10-21T18:28:29.534Z",
+      "notes": "asacas",
+      "position": {
+        "lat": "40.744360459462165",
+        "lng": "-7.734375000000001"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Midelt",
+      "country": "Morocco",
+      "emoji": "🇲🇦",
+      "date": "2023-10-21T18:28:39.384Z",
+      "notes": "asad",
+      "position": {
+        "lat": "32.90802273201975",
+        "lng": "-4.768066406250001"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Fuentelapena",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-10-21T21:20:29.592Z",
+      "notes": "xv x ",
+      "position": {
+        "lat": "41.259466519400995",
+        "lng": "-5.372314453125001"
+      },
+      "id": 98443203
+    }
+  ]
+}
